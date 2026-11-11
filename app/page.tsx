@@ -17,7 +17,7 @@ export default function Home() {
           toi en un clic.
         </p>
         <a
-          href="#"
+          href="/questionnaire"
           className={`${titre} mt-8 block bg-[#F5B700] px-6 py-5 text-center text-lg uppercase`}
         >
           Commencer
@@ -84,7 +84,7 @@ export default function Home() {
             Récupère tes 16 heures.
           </h2>
           <a
-            href="#"
+            href="/questionnaire"
             className={`${titre} mt-6 block bg-[#161616] px-6 py-5 text-center text-lg uppercase text-[#F5B700]`}
           >
             Commencer
